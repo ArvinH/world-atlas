@@ -1,3 +1,5 @@
+# [Update 2017/07/13] Add Populated place topojson (also comes from [Natural Earth](http://www.naturalearthdata.com/)
+
 # World Atlas TopoJSON
 
 This repository provides a convenient mechanism for generating TopoJSON files from [Natural Earth](http://www.naturalearthdata.com/)’s [vector data](http://www.naturalearthdata.com/downloads/), version 2.0.0.
